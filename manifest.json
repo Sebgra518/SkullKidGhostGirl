@@ -1,0 +1,11 @@
+{
+    "name": "SkullKidGhostGirlSFX",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces the bell ring and a few laughs with the Skull Kid from Zelda Majoras Mask.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "no00ob-LCSoundTool-1.2.2",
+        "Clementinise-CustomSounds-1.2.3"
+    ]
+}
